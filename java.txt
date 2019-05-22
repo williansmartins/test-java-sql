@@ -10,4 +10,72 @@ final method is not overriden
 q4
 String[] array = {"a", "b"};
 String.join("", array) //JAVA8
+ou
+StringBuffer sb = new StringBuffer();	
+for (String string : array) {
+  sb.append(string);
+}
 
+q5
+Java class can NOT have multiples parents
+
+q6
+abstractions should not depend upon details
+
+q7
+Throw new Exception()
+
+q8
+A a = new A();
+A b = new B(); //ok when extends
+
+q9
+Aways use access specifiers
+
+q10
+int i = 0;
+System.out.println(i++); //0
+
+q11
+Garbage collector ensures that there are enough memory to run  a java program
+NO
+
+q12
+System.out.println(PLANET.MERCURY == PLANET.VENUS); //false
+System.out.println(PLANET.MERCURY == PLANET.MERCURY); //true
+System.out.println(PLANET.MERCURY.equals(PLANET.MERCURY)); //true
+
+q13
+Interfaces can extends multiples Interfaces
+
+q14
+Interfaces can have implemented methods //JAVA8
+
+q15
+If two objects are equals then they should have the same hashcode
+NO
+
+q16
+2 >> 1 = 1 //010 -> 001 = 1
+
+q17
+primitives
+YES = int, float
+NO = uint, bool
+
+q18
+if(i==1 || j==1 || (i+j) == 1)
+
+q19
+Singleton...
+
+q20
+interface Animable { method(); }
+
+
+
+
+=================
+20 segundos fazer calculo de bitwise...
+Garbage collector ensures that there are enough memory to run  a java program
+questao 19- o que era aquilo?
