@@ -72,6 +72,12 @@ Singleton...
 q20
 interface Animable { method(); }
 
+q21
+Binary search in java
+
+q22
+StringBuilder
+
 
 
 
