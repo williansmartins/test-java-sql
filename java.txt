@@ -1,0 +1,13 @@
+q1
+public static final int XXX = 12345;
+
+q2
+private atribute are NOT visible from subclass
+
+q3
+final method is not overriden
+
+q4
+String[] array = {"a", "b"};
+String.join("", array) //JAVA8
+
