@@ -24,11 +24,29 @@ ORDER BY B, A
 q28
 Numbers of customers by city
 The HAVING clause was added to SQL because the WHERE keyword could not be used with aggregate functions.
+SELECT column_name(s)
+FROM table_name
+WHERE condition
+GROUP BY column_name(s)
+HAVING condition
+ORDER BY column_name(s);
+
+q29
+Primary Key 
+=> it canot be a foreign key
+=> it can have a data type like varchar
+=> it can not contain any duplicate values
+
+q30
+SELECT products with category, if have not show null
+  LEFT JOIN Orders ON Customers.CustomerID = Orders.CustomerID
 
 
 
-SELECT PRODUCT_ID, NAME, PRICE
-FROM product 
-WHERE PRICE >= 100
-ORDER BY PRICE desc
+q31
+Select numbers of product per product category
+//??
+
+
+
 
