@@ -1,3 +1,32 @@
+feedback "
+JS foi derivado do java..." não e sim
+
+q1
+"2" === 2 //false comparou tambem o tipo
+
+q2
+declare variable
+var int or Number //var
+
+q3
+disable form field //disabled or readyonly atributte
+
+q4
+initial request method in browser //get
+
+q5
+status 401 //unauthorized
+
+q6
+include a javscript script //script
+
+q7
+javascript foi derivado do java// não e sim
+
+q8
+
+
+
 // JavaScript code​​​​​​‌​​​​‌‌‌​‌‌‌​‌​​​​​​​​‌​​ below
 // Use printErr(...) to debug your solution.
 
